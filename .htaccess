@@ -5,12 +5,12 @@
 </IfModule>
 # php -- END cPanel-generated handler, do not edit
 # DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
-PassengerAppRoot "/home/hiperpharma/admin.boutiqueathenea.com"
+PassengerAppRoot "/home/boutiqueathenea/admin.boutiqueathenea.co"
 PassengerBaseURI "/"
-PassengerNodejs "/home/hiperpharma/nodevenv/admin.boutiqueathenea.com/12/bin/node"
+PassengerNodejs "/home/boutiqueathenea/nodevenv/admin.boutiqueathenea.co/12/bin/node"
 PassengerAppType node
 PassengerStartupFile start/app.js
-PassengerAppLogFile "/home/hiperpharma/logadmin"
+PassengerAppLogFile "/home/boutiqueathenea/logadmin"
 # DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
 # DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION BEGIN
 <IfModule Litespeed>

@@ -2479,18 +2479,18 @@ a#toggle_mobile_nav {
     .setting-panel .theme-option-wrap > li#theme-1::after {
       background: #fff; }
     .setting-panel .theme-option-wrap > li#theme-1::before {
-      background: #cb9c34; }
+      background: #c99e3e; }
     .setting-panel .theme-option-wrap > li#theme-2::after {
-      background: #cb9c34; }
+      background: #c99e3e; }
     .setting-panel .theme-option-wrap > li#theme-2::before {
       background: #fff; }
     .setting-panel .theme-option-wrap > li#theme-3::after {
       background: #fff; }
     .setting-panel .theme-option-wrap > li#theme-3::before {
-      background: #cb9c34;
+      background: #c99e3e;
       z-index: 2; }
     .setting-panel .theme-option-wrap > li#theme-4::after {
-      background: #cb9c34; }
+      background: #c99e3e; }
     .setting-panel .theme-option-wrap > li#theme-4::before {
       background: #fff;
       z-index: 2; }
@@ -2499,9 +2499,9 @@ a#toggle_mobile_nav {
     .setting-panel .theme-option-wrap > li#theme-5::before {
       background: #fff; }
     .setting-panel .theme-option-wrap > li#theme-6::after {
-      background: #cb9c34; }
+      background: #c99e3e; }
     .setting-panel .theme-option-wrap > li#theme-6::before {
-      background: #cb9c34; }
+      background: #c99e3e; }
 
 #setting_panel_btn {
   position: fixed;
@@ -2595,12 +2595,12 @@ a#toggle_mobile_nav {
   .wrapper.theme-1-active .fixed-sidebar-left {
     z-index: 1030; }
     .wrapper.theme-1-active .fixed-sidebar-left .side-nav {
-      background: #cb9c34; }
+      background: #c99e3e; }
   .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top {
-    background: #cb9c34;
-    border-bottom: 1px solid #cb9c34; }
+    background: #c99e3e;
+    border-bottom: 1px solid #c99e3e; }
     .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top .mobile-only-brand {
-      background: #cb9c34; }
+      background: #c99e3e; }
     .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top .nav-header .logo-wrap .brand-text {
       color: #fff; }
     .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top .nav > li > a:active, .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top .nav > li > a:hover, .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top .nav > li > a:focus {
@@ -2610,20 +2610,20 @@ a#toggle_mobile_nav {
   .wrapper.theme-3-active .fixed-sidebar-left {
     z-index: 1030; }
     .wrapper.theme-3-active .fixed-sidebar-left .side-nav {
-      background: #cb9c34; }
+      background: #c99e3e; }
   .wrapper.theme-3-active .navbar.navbar-inverse.navbar-fixed-top {
     background: #fff; }
     .wrapper.theme-3-active .navbar.navbar-inverse.navbar-fixed-top .nav-header {
-      background: #cb9c34; }
+      background: #c99e3e; }
       .wrapper.theme-3-active .navbar.navbar-inverse.navbar-fixed-top .nav-header .logo-wrap .brand-text {
         color: #fff; }
   .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top {
-    background: #cb9c34; }
+    background: #c99e3e; }
     .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .mobile-only-brand {
-      background: #cb9c34; }
+      background: #c99e3e; }
     .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .nav-header {
       background: #fff;
-      border-right: 1px solid #cb9c34; }
+      border-right: 1px solid #c99e3e; }
       .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .nav-header .logo-wrap .brand-text {
         color: #212121; }
     .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .nav > li > a:active, .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .nav > li > a:hover, .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .nav > li > a:focus {
@@ -2648,9 +2648,9 @@ a#toggle_mobile_nav {
   .wrapper.theme-6-active .fixed-sidebar-left {
     z-index: 1030; }
     .wrapper.theme-6-active .fixed-sidebar-left .side-nav {
-      background: #cb9c34; }
+      background: #c99e3e; }
   .wrapper.theme-1-active .fixed-sidebar-left, .wrapper.theme-3-active .fixed-sidebar-left, .wrapper.theme-6-active .fixed-sidebar-left {
-    border-right: 1px solid #cb9c34; }
+    border-right: 1px solid #c99e3e; }
     .wrapper.theme-1-active .fixed-sidebar-left .side-nav > li > a, .wrapper.theme-3-active .fixed-sidebar-left .side-nav > li > a, .wrapper.theme-6-active .fixed-sidebar-left .side-nav > li > a {
       color: #fff; }
       .wrapper.theme-1-active .fixed-sidebar-left .side-nav > li > a:hover, .wrapper.theme-1-active .fixed-sidebar-left .side-nav > li > a:focus, .wrapper.theme-1-active .fixed-sidebar-left .side-nav > li > a:active, .wrapper.theme-3-active .fixed-sidebar-left .side-nav > li > a:hover, .wrapper.theme-3-active .fixed-sidebar-left .side-nav > li > a:focus, .wrapper.theme-3-active .fixed-sidebar-left .side-nav > li > a:active, .wrapper.theme-6-active .fixed-sidebar-left .side-nav > li > a:hover, .wrapper.theme-6-active .fixed-sidebar-left .side-nav > li > a:focus, .wrapper.theme-6-active .fixed-sidebar-left .side-nav > li > a:active {
@@ -2684,24 +2684,24 @@ a#toggle_mobile_nav {
   .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top .mobile-only-nav, .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .mobile-only-nav, .wrapper.theme-5-active .navbar.navbar-inverse.navbar-fixed-top .mobile-only-nav, .wrapper.theme-6-active .navbar.navbar-inverse.navbar-fixed-top .mobile-only-nav {
     background: #292929; }
   .wrapper.theme-2-active .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group input {
-    background: #cb9c34;
+    background: #c99e3e;
     color: #fff; }
   .wrapper.theme-3-active .navbar.navbar-inverse.navbar-fixed-top .nav-header {
     background: #fff; }
     .wrapper.theme-3-active .navbar.navbar-inverse.navbar-fixed-top .nav-header .logo-wrap .brand-text {
       color: #212121; }
   .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .nav-header {
-    background: #cb9c34;
+    background: #c99e3e;
     border-right: none; }
     .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .nav-header .logo-wrap .brand-text {
       color: #fff; }
   .wrapper.theme-4-active .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group input {
-    background: #cb9c34;
+    background: #c99e3e;
     color: #fff; }
   .wrapper.theme-5-active .navbar.navbar-inverse.navbar-fixed-top .mobile-only-nav {
     background: #f5f5f5; }
   .wrapper.theme-6-active .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group input {
-    background: #cb9c34;
+    background: #c99e3e;
     color: #fff; } }
 /* Top Navigation */
 .navbar.navbar-inverse {

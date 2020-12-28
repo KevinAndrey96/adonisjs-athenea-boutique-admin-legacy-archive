@@ -1,7 +1,10 @@
 'use strict'
 const Product = use('App/Models/Product')
 const Category = use('App/Models/Category')
-const URL="https://boutiqueathenea.com/"
+const URL="https://boutiqueathenea.co/"
+
+const Order = use('App/Models/Order')
+
 class ProductController {
   
     async create ({ request, response, session }) {
@@ -128,15 +131,20 @@ class ProductController {
         return view.render("cart", {products: products.toJSON()},);
       }
       
-
-
-/*
-      index ({ request, response, session }) {
-        //const products = Product.all()
-        //return products
-        //return response.view.render('products')
-        //return view.render('products', { products: products.toJSON() })
-      }*/
+      async stats({request, response})
+      {
+        var dt = new Date();
+        let year = dt.getFullYear()
+        
+        var months = []
+        for (let i=1; i<=12; i++)
+        {
+          let j = ((i<10) ? "0" + i : i);
+          var orders = await Order.query().where("created_at", "like", year + "-" + j + "%").getCount();
+          months.push(orders)
+        }
+        return months;
+      }
 }
 
 module.exports = ProductController

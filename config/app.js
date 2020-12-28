@@ -16,7 +16,7 @@ module.exports = {
   |
   */
 
-  name: Env.get('APP_NAME', 'Boutique Athenea'),
+  name: Env.get('APP_NAME', 'HiperPharma'),
 
   /*
   |--------------------------------------------------------------------------
